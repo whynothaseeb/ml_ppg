@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+gp_dia_model.pkt
+gp_sys_model.pkt
+*.__pycache__
+test.py
